@@ -1,4 +1,4 @@
-This basic HTML project contains various pages of various cooking recipes.
+This basic HTML project contains various pages of cooking recipes.
 
 In this project, I have demonstrated the ability to:
 - Create basic webpages
