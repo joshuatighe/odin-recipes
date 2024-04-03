@@ -1,0 +1,15 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(40, 40, 43);
+  color: white;
+}
+
+img {
+  width: 15%;
+  height: auto;
+}
+
+h3 {
+  text-align: center;
+  background-color: rgb(69, 69, 72);
+}
